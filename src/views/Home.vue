@@ -130,9 +130,11 @@ export default {
 
 <style lang="scss">
 .home {
+  background-color: #eeeeee;
   transform: translateY(100px);
   margin: 0 auto;
-  width: 80%;
+  padding: 1rem;
+  width: 75%;
 }
 
 /* Basic editor styles */
